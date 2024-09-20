@@ -1,4 +1,10 @@
 
+
+![Screenshot 2024-09-21 020154](https://github.com/user-attachments/assets/87dfae9f-864b-456d-9479-2b31af573039)
+
+
+
+
 WELCOME TO MY PROFILE
 
 👋 Hi, I’m @ankitak1980
