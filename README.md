@@ -7,15 +7,15 @@
 
 WELCOME TO MY PROFILE
 
-👋 Hi, I’m @ankitak1980
+  👋 Hi, I’m @ankitak1980
 
-🧑‍🎓I'm CSE student at IKGPTU Mohali
+  🧑‍🎓I'm CSE student at IKGPTU Mohali
 
-👀 I’m interested in hacking 
+  👀 I’m interested in hacking 
 
-🌱 I’m currently learning wireshark
+  🌱 I’m currently learning wireshark
 
-💞️ I’m passionate about learning new skills 
+  💞️ I’m passionate about learning new skills 
 
 
 <!---
