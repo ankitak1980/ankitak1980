@@ -11,9 +11,9 @@ WELCOME TO MY PROFILE
 
   🧑‍🎓I'm CSE student at IKGPTU Mohali
 
-  👀 I’m interested in hacking 
+  👀 I’m interested in hacking & Data Analyst
 
-  🌱 I’m currently learning wireshark
+  🌱 I’m currently learning wireshark & R
 
   💞️ I’m passionate about learning new skills 
 
